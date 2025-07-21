@@ -6,7 +6,7 @@ Project URL: [appy-fizz-home-page.vercel.app](https://appy-fizz-home-page.vercel
 Associated With: Brototype – Brocamp
 
 Description:
-This was my fourth overall project and my first project after joining Brototype’s 7-month offline program (Brocamp) in Kozhikode Hub. I recreated the homepage of the Appy Fizz brand website using only HTML and CSS to practice layout building, navigation menus, and pixel-perfect styling.
+This was my fifth overall project and my second project after joining Brototype’s 7-month offline program (Brocamp) in Kozhikode Hub. I recreated the homepage of the Appy Fizz brand website using only HTML and CSS to practice layout building, navigation menus, and pixel-perfect styling.
 Before developing, I studied layout techniques and responsive design basics on W3Schools. The entire build was done from scratch — no templates or frameworks — to strengthen my HTML/CSS foundation and attention to design detail. This project gave me hands-on experience in replicating real-world brand UI using clean structure and visual balance.
 
 Tech Stack:
